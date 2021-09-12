@@ -1,0 +1,11 @@
+{
+  "name": "java-exercise-11-20",
+  "version": "1.0.0",
+  "description": "Trasformare le due variabili funzione (`sum` e `log`) in due arrow functions",
+  "main": "exercise-1.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Leonarch",
+  "license": "ISC"
+}
