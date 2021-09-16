@@ -6,7 +6,12 @@ const person1 = {
 
 const person2 = person1;
 
-// Modifica la proprietà "firstName" di person2 in "Simon"
+person2.firstName = 'Simon';
+
 
 console.log(person1);
 console.log(person2);
+
+//Possiamo modificare 'person1' attraverso 'person2' perchè 
+//gli è stato assegnato come riferimento a rigo 7 collegando 
+//cosi i due oggetti.
