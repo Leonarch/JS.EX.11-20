@@ -4,7 +4,7 @@ const person1 = {
   age: 25
 };
 
-const person2 = Object.assign(person1);
+const person2 = Object.assign({}, person1);
 
 person2.firstName = 'Simon';
 
