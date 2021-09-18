@@ -4,4 +4,4 @@ const person = {
 };
 
 console.log(person?.address?.city);
-console.log(person?.fullName());
+console.log(person?.fullName())
