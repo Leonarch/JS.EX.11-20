@@ -1,6 +1,7 @@
 function createStore() {
   const store = [];
 
+  
   return (product) => {
     store.push(product)
     console.log(store);
