@@ -3,6 +3,7 @@ function adultFilter(persons) {
   return persons.filter((adult) => adult.age >= 18);
 }
 
+
 const persons = [
   { name: 'Paul', age: 16 },
   { name: 'George', age: 17 },
