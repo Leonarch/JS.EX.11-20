@@ -7,8 +7,8 @@ const person1 = {
     region: 'Lazio',
     city: 'Rome'
   }
-  
 };
+
 
 const person2 = JSON.parse(JSON.stringify(person1);
 
