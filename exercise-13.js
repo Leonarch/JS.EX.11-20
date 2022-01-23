@@ -9,7 +9,6 @@ const multiply = (a, b) =>  a * b;
 
 const divide = (a, b) => a / b;
 
-
 const log = (value) => console.log(value);
 
 // sum (2,4);
