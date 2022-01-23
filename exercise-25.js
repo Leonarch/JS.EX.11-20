@@ -16,6 +16,7 @@ const person = {
   }
 }
 
+
 const john = Object.create(person);
 john.name = 'John';
 john.surname = 'Doe';
