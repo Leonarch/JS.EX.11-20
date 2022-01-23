@@ -12,6 +12,7 @@ const person = {
     return `${this.fullName()}, ${this.age} ${this.job}`;
   }
 
+  
   }
 
 
