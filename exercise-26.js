@@ -5,6 +5,7 @@ this.fullName = () => `${this.name} ${this.surname}`;
 
 }
 
+
 const john = new Person("John", "Doe");
 const simon = new Person("Simon", "Collins");
 
