@@ -4,6 +4,7 @@ const person = {
   age: 25
 }
 
+
 for (value of Object.values(person)){
   console.log(value);
 }
