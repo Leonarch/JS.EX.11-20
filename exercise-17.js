@@ -1,6 +1,7 @@
 function calculate() {
 let operation = 0;
 
+
 return {
   add(n) {
     operation += n;
