@@ -4,6 +4,7 @@ const person = {
   age: 25
 }
 
+
 for (key of Object.keys(person)) {
   console.log (`${key}: ${person[key]}` )
 }
