@@ -1,5 +1,6 @@
 function pow(base) {
   return (potenza) => (base ** potenza);
+  
 }
 const pow2 = pow(2);
 const pow5 = pow(5);
