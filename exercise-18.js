@@ -6,6 +6,7 @@ function memoize(fn) {
       return cache[number];
     }
     
+    
     else {
       cache[number] = fn(number);
       console.log ("Calculating result for " + number);
