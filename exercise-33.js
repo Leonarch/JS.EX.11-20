@@ -4,6 +4,7 @@ function firstUncompletedNote(notes) {
   });
 }
 
+
 const notes = [
   {
     id: 1,
