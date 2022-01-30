@@ -5,6 +5,7 @@ function calculateAverageAge(persons) {
 
   return Math.round(ageAverage / persons.length);
 }
+
 const persons = [
   { name: 'Paul', age: 16 },
   { name: 'George', age: 17 },
