@@ -5,6 +5,7 @@ function uncompletedNotes(notes) {
   });
 }
 
+
 const notes = [
   {
     id: 1,
