@@ -5,6 +5,5 @@ class Person {
     }
   }
   
-
 const developer = new Person('Mario', 'Rossi');
 console.log(`${developer.name} ${developer.surname}`);
